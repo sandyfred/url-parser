@@ -6,6 +6,10 @@
 
 The URL to be resolved will typically follow this format:
 
+```
+<protocol>://<username>:<password>@<host>:<port>/<path>?<query>
+```
+
 2. **Components to Resolve**
 
 The URL should be resolved into the following components:
